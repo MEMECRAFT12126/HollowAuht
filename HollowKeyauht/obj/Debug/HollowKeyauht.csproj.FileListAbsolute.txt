@@ -1,0 +1,16 @@
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\HollowKeyauht.exe.config
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\HollowKeyauht.exe
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\HollowKeyauht.pdb
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.csproj.AssemblyReference.cache
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.Form1.resources
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.Properties.Resources.resources
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.csproj.GenerateResource.cache
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.csproj.CoreCompileInputs.cache
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.exe
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.pdb
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\Newtonsoft.Json.dll
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\System.CodeDom.dll
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\Newtonsoft.Json.xml
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\bin\Debug\System.CodeDom.xml
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKeyauht.exe.config
+C:\Users\algu7\source\repos\HollowKeyauht\HollowKeyauht\obj\Debug\HollowKe.BFCD275D.Up2Date
